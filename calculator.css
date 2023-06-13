@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+}
+
+
+.heading{
+    text-align: center;
+    margin: 4px;
+}
+
+.input{
+    margin: 5px;
+    padding: 10px;
+    
+    
+}
+.word{
+    text-align: center;
+    cursor: pointer;
+    font-size: 13px;
+    margin: 10px;
+    padding: 3px;
+    width: 224px;
+    height: 29px;
+    font-size: 1.5rem;
+}
+
+.button{
+    cursor: pointer;
+    margin:10px 10px;
+    padding: 5px 5px;
+    border-radius:5px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    font-size: 1rem;
+    width: 40px;
+}
